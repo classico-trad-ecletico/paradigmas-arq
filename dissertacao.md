@@ -656,7 +656,7 @@ Fonte: Punta Perotti va giù . Disponível em <http://www.puntaperottivagiu.com>
 
 # A natureza do objeto cívico #
 
-                                                                                                                                                       
+## Influência do método de ensino ##
 
 Como ponto de partida, consideramos que existem diferentes maneiras de
 fazer a monumentalidade, enquanto elemento excepcional da malha urbana,
@@ -680,17 +680,17 @@ complexidade convencionalmente crescente, sem que haja uma verificação
 prática e sem uma relação estreita com as disciplinas auxiliares que se
 ocupam dos aspectos materiais dos objetos que são projetados.
 
-Este sistema continua estruturando as escolas de arquitetura [...].
-Nenhuma  dessas influências que rodeiam o tronco central do currículo,
-constituído por uma sucessão de projetos, consegue transformar esse
-desenvolvimento autônomo que confirma sua origem naquele processo
-idealizado há mais de dois séculos.[^nsm-0-109]
+> Este sistema continua estruturando as escolas de arquitetura [...].
+> Nenhuma  dessas influências que rodeiam o tronco central do currículo,
+> constituído por uma sucessão de projetos, consegue transformar esse
+> desenvolvimento autônomo que confirma sua origem naquele processo
+> idealizado há mais de dois séculos.[^nsm-0-109]
 
 Distingue-se apenas o método moderno, batizado com a inadequada
 metonímia "projeto funcionalista", pela imitação de modelos aclamados no
 lugar da imitação de tipos ideais.[^nsm-0-110] Além disso, aponta Corona
 Martinez, "um terceiro e surpreendente critério é a originalidade da
-proposta" [^nsm-0-111]  --- originalidade essa que, obviamente, não pode
+proposta" [^nsm-0-111] --- originalidade essa que, obviamente, não pode
 ser descrita por nenhum "método" pedagógico, por mais elevado que seja o
 seu prestígio no contexto arquitetônico do século xx.
 
@@ -1367,8 +1367,6 @@ Fonte: Cohen, Les fronts mouvants de la modernité, op. cit, 20
                                                                                                                                                        
 
 # Métodos de composição #
-
-                                                                                                                                                       
 
 ## Ordem ##
 
@@ -2926,37 +2924,141 @@ caminho do meio entre os extremos do academicismo e do modernismo.
 
 ### Proporções e contrastes ###
 
-O estudo do Palais Chaillot mostra outro efeito reforçado pelo recurso dos níveis de escala na composição: há uma sutil mas importante variação na ênfase dada às diferentes escalas ao longo da extensão dos edifícios. Nos pavilhões das extremidades externas e internas, as combinações de massa são mais complexas e interessantes, enquanto que nos longos trechos curvos há um maior equilíbrio entre essa escala e os elementos menores. Essa diferença realça o papel dominante dos pavilhões, que, apesar de suas reduzidas dimensões no conjunto, ganham destaque contra o restante do palácio, cuja figura é lida como plano de fundo. Em outros termos, os pavilhões terminais estão para o conjunto do edifício como este está para a malha urbana trivial: o contraste entre *res publica* e *res privata* é espelhado, dentro da composição arquitetônica individual, por um contraste análogo entre elementos dominantes e elementos dominados.
+O estudo do Palais Chaillot mostra outro efeito reforçado pelo recurso
+dos níveis de escala na composição: há uma sutil mas importante variação
+na ênfase dada às diferentes escalas ao longo da extensão dos edifícios.
+Nos pavilhões das extremidades externas e internas, as combinações de
+massa são mais complexas e interessantes, enquanto que nos longos
+trechos curvos há um maior equilíbrio entre essa escala e os elementos
+menores. Essa diferença realça o papel dominante dos pavilhões, que,
+apesar de suas reduzidas dimensões no conjunto, ganham destaque contra o
+restante do palácio, cuja figura é lida como plano de fundo. Em outros
+termos, os pavilhões terminais estão para o conjunto do edifício como
+este está para a malha urbana trivial: o contraste entre *res publica* e
+*res privata* é espelhado, dentro da composição arquitetônica
+individual, por um contraste análogo entre elementos dominantes e
+elementos dominados.
 
-Johannes Itten (1888-1967), estudioso da cor e professor da Bauhaus, chama atenção para o fato de que esse paradoxo do pequeno que assume um caráter dominante e do grande que recua na mesma medida está presente também nos contrastes de matizes complementares: "A cor minoritária, como que em desespero, reage defensivamente de modo a parecer mais viva do que se [...] estivesse presente em quantidade harmoniosa." [^nsm-0-283] É um efeito semelhante ao que ocorre no Palais Chaillot, onde os elementos menores têm um maior peso visual do que as partes mais extensas.
+Johannes Itten (1888-1967), estudioso da cor e professor da Bauhaus,
+chama atenção para o fato de que esse paradoxo do pequeno que assume um
+caráter dominante e do grande que recua na mesma medida está presente
+também nos contrastes de matizes complementares: "A cor minoritária,
+como que em desespero, reage defensivamente de modo a parecer mais viva
+do que se [...] estivesse presente em quantidade
+harmoniosa." [^nsm-0-283] É um efeito semelhante ao que ocorre no Palais
+Chaillot, onde os elementos menores têm um maior peso visual do que as
+partes mais extensas.
 
-Como os demais termos da composição, os elementos constituintes da forma e as relações de escala entre esses elementos, também as proporções são usadas para dar maior clareza à expressão do propósito político da arquitetura. O objetivo da composição, no método acadêmico de Guadet, é ressaltar a relação entre os espaços e elementos principais e os subordinados, e assim expressar com clareza mas também simbolicamente as funções do edifício; para esse efeito, a proporção entre esses elementos deve refletir a sua importância relativa. Guadet define o uso correto das proporções:
+Como os demais termos da composição, os elementos constituintes da forma
+e as relações de escala entre esses elementos, também as proporções são
+usadas para dar maior clareza à expressão do propósito político da
+arquitetura. O objetivo da composição, no método acadêmico de Guadet, é
+ressaltar a relação entre os espaços e elementos principais e os
+subordinados, e assim expressar com clareza mas também simbolicamente as
+funções do edifício; para esse efeito, a proporção entre esses elementos
+deve refletir a sua importância relativa. Guadet define o uso correto
+das proporções:
 
-E em toda essa planta, antes de ler qualquer legenda, como vocês percebem com uma olhada apenas tudo aquilo que é principal, tudo o que é secundário, tudo o que é acessório! Nada de precisar do compasso ou do escalímetro. Eis a proporção na composição! [^nsm-0-284]
+E em toda essa planta, antes de ler qualquer legenda, como vocês
+percebem com uma olhada apenas tudo aquilo que é principal, tudo o que é
+secundário, tudo o que é acessório! Nada de precisar do compasso ou do
+escalímetro. Eis a proporção na composição! [^nsm-0-284]
 
-Logo, o senso de proporção está intimamente ligado à relações de escala. Mas ele inclui também toda uma gama de operações projetuais que vão além da simples manipulação de dimensões. Em primeiro lugar, essas proporções, tanto quanto as dimensões absolutas do edifício, têm um importante papel na determinação do caráter cívico ou privado da arquitetura:
+Logo, o senso de proporção está intimamente ligado à relações de escala.
+Mas ele inclui também toda uma gama de operações projetuais que vão além
+da simples manipulação de dimensões. Em primeiro lugar, essas
+proporções, tanto quanto as dimensões absolutas do edifício, têm um
+importante papel na determinação do caráter cívico ou privado da
+arquitetura:
 
-[...] quanto mais vocês quiserem evocar a idéia do monumental, mais vocês deverão manter as proporções tradicionais na medida em que elas forem compatíveis com a sua composição.
+> [...] quanto mais vocês quiserem evocar a idéia do monumental, mais
+> vocês deverão manter as proporções tradicionais na medida em que elas
+> forem compatíveis com a sua composição.
+>
+> Quando, ao contrário, a fantasia e o capricho forem justificados,
+> vocês se libertarão dessa severidade que se tornaria pedante. Tudo é
+> questão de justa medida e de bom-gosto.[^nsm-0-285]
 
-Quando, ao contrário, a fantasia e o capricho forem justificados, vocês se libertarão dessa severidade que se tornaria pedante. Tudo é questão de justa medida e de bom-gosto.[^nsm-0-285]
+Essa "justa medida", que o observador afere "comparando o edifício com
+as suas próprias dimensões", foi bastante maltratada pela teoria do
+Movimento Moderno, senão pela sua prática. Lucio Costa mitigava a
+admoestação de Guadet, que ele certamente estudara quando aluno, com a
+elusiva "consciência" ou as "idéias" tomando o lugar da "dimensão"
+física do corpo humano.[^nsm-0-286] E Costa ainda propõe, talvez
+intencionalmente em coro com a pedagogia "purificadora" da Bauhaus, que
+não se trata de "justa medida" ou de "bom-gosto", mas simplesmente de
+uma "intenção" [^nsm-0-287]: golpe mortal contra a mera insinuação de
+que o ensino pudesse transmitir algum conhecimento objetivo em matéria
+de proporções e composição. E essa "desmedida" intencionalmente
+contraposta à "justa medida" acadêmica não fica restrita à teoria; na
+largura do Eixo Monumental de Brasília (projetado em 1957) caberia, com
+folga, o imenso Volkshalle, epítome da desmesurada arquitetura nazista,
+projetado por Albert Speer exatos vinte anos antes (Figura 54).
 
-Essa "justa medida", que o observador afere "comparando o edifício com as suas próprias dimensões", foi bastante maltratada pela teoria do Movimento Moderno, senão pela sua prática. Lucio Costa mitigava a admoestação de Guadet, que ele certamente estudara quando aluno, com a elusiva "consciência" ou as "idéias" tomando o lugar da "dimensão" física do corpo humano.[^nsm-0-286] E Costa ainda propõe, talvez intencionalmente em coro com a pedagogia "purificadora" da Bauhaus, que não se trata de "justa medida" ou de "bom-gosto", mas simplesmente de uma "intenção" [^nsm-0-287]: golpe mortal contra a mera insinuação de que o ensino pudesse transmitir algum conhecimento objetivo em matéria de proporções e composição. E essa "desmedida" intencionalmente contraposta à "justa medida" acadêmica não fica restrita à teoria; na largura do Eixo Monumental de Brasília (projetado em 1957) caberia, com folga, o imenso Volkshalle, epítome da desmesurada arquitetura nazista, projetado por Albert Speer exatos vinte anos antes (Figura 54).
+Ao que se chama hoje de proporção, Vitrúvio dava o nome de *symmetria*:
+"a correlação adequada dos membros da obra entre si, e a relação das
+partes individuais com o aspecto de conjunto da figura, segundo a razão
+de uma das partes." [^nsm-0-288] Por extensão, o sentido moderno da
+palavra simetria toma como uma "correlação adequada" a correspondência
+de elementos em torno de um eixo ou ponto através do qual eles se
+espelham. Essa simetria ocorre, segundo modernistas e críticos do
+Movimento, como um desdobramento da criação de sistemas ordenados seja
+na natureza, seja no engenho humano. Para Saarinen, "na natureza, sempre
+que se vê uma forma simétrica é porque há uma razão lógica e funcional
+para a coincidência entre a ‘beleza do equilíbrio’ e a ‘beleza da
+simetria’." [^nsm-0-289] Alexander enuncia, na mesma linha de
+pensamento, o que ele entende por transformações que preservam a
+estrutura geométrica do espaço, fundamentais na produção da forma:
 
-Ao que se chama hoje de proporção, Vitrúvio dava o nome de *symmetria*: "a correlação adequada dos membros da obra entre si, e a relação das partes individuais com o aspecto de conjunto da figura, segundo a razão de uma das partes." [^nsm-0-288] Por extensão, o sentido moderno da palavra simetria toma como uma "correlação adequada" a correspondência de elementos em torno de um eixo ou ponto através do qual eles se espelham. Essa simetria ocorre, segundo modernistas e críticos do Movimento, como um desdobramento da criação de sistemas ordenados seja na natureza, seja no engenho humano. Para Saarinen, "na natureza, sempre que se vê uma forma simétrica é porque há uma razão lógica e funcional para a coincidência entre a ‘beleza do equilíbrio’ e a ‘beleza da simetria’." [^nsm-0-289] Alexander enuncia, na mesma linha de pensamento, o que ele entende por transformações que preservam a estrutura geométrica do espaço, fundamentais na produção da forma:
+> À medida que o sistema evolui, ele procura destruir o mínimo possível
+> dessas simetrias e centralidades maiores. Ele mantém tanto da
+> estrutura de simetrias e centralidades quanto possível, e destrói o
+> mínimo possível da estrutura de simetrias e centralidades, sem deixar
+> de avançar.[^nsm-0-290]
 
-À medida que o sistema evolui, ele procura destruir o mínimo possível dessas simetrias e centralidades maiores. Ele mantém tanto da estrutura de simetrias e centralidades quanto possível, e destrói o mínimo possível da estrutura de simetrias e centralidades, sem deixar de avançar.[^nsm-0-290]
+O exemplo mais comumente citado de simetria em composições associadas a
+uma estética moderna é provavelmente o dos edifícios de Mies van der
+Rohe no pós-guerra, e antes da Segunda Guerra Mundial os de Auguste
+Perret, como o depósito do Acervo do Patrimônio (Mobilier national) em
+Paris (1931, Figura 56). Mas ele é encontrado também em obras de
+arquitetos neo-racionalistas, como no ginásio de Adalberto Libera para o
+eur '42, e até mesmo no projeto de Le Corbusier para os Musées de la
+Ville et de l'État (1937, Figura 57) --- não se trata apenas de algum
+elemento simétrico na fachada, mas de toda a volumetria do edifício que
+se rende às exigências da composição. Em *Vers une architecture*, Le
+Corbusier defende que:
 
-O exemplo mais comumente citado de simetria em composições associadas a uma estética moderna é provavelmente o dos edifícios de Mies van der Rohe no pós-guerra, e antes da Segunda Guerra Mundial os de Auguste Perret, como o depósito do Acervo do Patrimônio (Mobilier national) em Paris (1931, Figura 56). Mas ele é encontrado também em obras de arquitetos neo-racionalistas, como no ginásio de Adalberto Libera para o eur '42, e até mesmo no projeto de Le Corbusier para os Musées de la Ville et de l'État (1937, Figura 57) --- não se trata apenas de algum elemento simétrico na fachada, mas de toda a volumetria do edifício que se rende às exigências da composição. Em *Vers une architecture*, Le Corbusier defende que:
+> O ritmo é um estado de equilíbrio procedente de simetrias simples ou
+> complexas ou procedentes de sábias compensações. O ritmo é uma
+> equação: igualação (simetria, repetição) [...]; compensação (movimento
+> dos contrários) [...]; modulação (desenvolvimento de uma invenção
+> plástica inicial) [...].[^nsm-0-291]
 
-O ritmo é um estado de equilíbrio procedente de simetrias simples ou complexas ou procedentes de sábias compensações. O ritmo é uma equação: igualação (simetria, repetição) [...]; compensação (movimento dos contrários) [...]; modulação (desenvolvimento de uma invenção plástica inicial) [...].[^nsm-0-291]
+Varon defende a simetria bilateral como um elemento de elegante
+simplificação nas formas da fachada --- uma associação que certamente
+remete à profusão de temas nas assimétricas composições pitorescas da
+arquitetura vitoriana. Ao contrário desta, implicitamente lembrada ainda
+que não mencionada, uma boa fachada é mais "comportada":
 
-Varon defende a simetria bilateral como um elemento de elegante simplificação nas formas da fachada --- uma associação que certamente remete à profusão de temas nas assimétricas composições pitorescas da arquitetura vitoriana. Ao contrário desta, implicitamente lembrada ainda que não mencionada, uma boa fachada é mais "comportada":
+> [...] simplicidade, regularidade e simetria podem por si sós
+> constituir características de fachadas, e elas são geralmente
+> qualidades desejáveis --- a simplicidade sempre o é. Uma fachada muito
+> simples, simétrica e uniforme, quando bem executada, possuirá em
+> qualquer caso charme e nobreza de expressão
+>
+> Tal austeridade numa estrutura grande ou longa, contudo, pode ser
+> excessivamente severa ou monótona, impedindo a beleza e divergindo da
+> grandiosidade que se busca num grande edifício.[^nsm-0-292]
 
-[...] simplicidade, regularidade e simetria podem por si sós constituir características de fachadas, e elas são geralmente qualidades desejáveis --- a simplicidade sempre o é. Uma fachada muito simples, simétrica e uniforme, quando bem executada, possuirá em qualquer caso charme e nobreza de expressão
-
-Tal austeridade numa estrutura grande ou longa, contudo, pode ser excessivamente severa ou monótona, impedindo a beleza e divergindo da grandiosidade que se busca num grande edifício.[^nsm-0-292]
-
-Em suma, alerta Varon, apesar de todas as prescrições didáticas "o absolutismo sufoca a arte." [^nsm-0-293] Curtis concorda, acrescentando que "o olho deve ser o árbitro daquilo que agrada por sua forma e daquilo que desagrada." [^nsm-0-294] Guadet já dizia o mesmo, mas adverte que "se a liberdade é o mais animador dos regimes, é também aquele que impõe o maior número de deveres. Na medida em que a sua liberdade se expande, a sua responsabilidade aumenta." [^nsm-0-295] O dever cívico do arquiteto é, então, o de assumir a sua responsabilidade pelo decoro urbano na medida do alcance da sua realização edificada.
+Em suma, alerta Varon, apesar de todas as prescrições didáticas "o
+absolutismo sufoca a arte." [^nsm-0-293] Curtis concorda, acrescentando
+que "o olho deve ser o árbitro daquilo que agrada por sua forma e
+daquilo que desagrada." [^nsm-0-294] Guadet já dizia o mesmo, mas
+adverte que "se a liberdade é o mais animador dos regimes, é também
+aquele que impõe o maior número de deveres. Na medida em que a sua
+liberdade se expande, a sua responsabilidade aumenta." [^nsm-0-295] O
+dever cívico do arquiteto é, então, o de assumir a sua responsabilidade
+pelo decoro urbano na medida do alcance da sua realização edificada.
 
 
 
