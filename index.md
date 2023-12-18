@@ -152,8 +152,14 @@ arquitetônicos que requeriam uma expressão cívica monumental
 
 ------------------------------------------------------------------------
 
+![Photo: [Janine Moraes/MinC, 2017][]](media/clim.jpg){#fig:clim}
+
+[Janine Moraes/MinC, 2017]: https://commons.wikimedia.org/wiki/File:Brasília_em_Escalas_(33325350794).jpg
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No modernismo,
+No modernismo, a dependência dos combustíveis fósseis vai além do
+processo construtivo e se torna dominante em todo o ciclo de vida da
+edificação ([@fig:clim]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Rationalisme structurel #
@@ -249,6 +255,69 @@ primeiros e mais importantes expoentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Proportions, échelle et contraste #
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:zeising}
+::: {.column width=50%}
+![Apollon du Belvédère](media/zeisingA.jpg){#fig:zeisingA}
+:::
+::: {.column width=50%}
+![Église gothique allemande](media/zeisingB.jpg){#fig:zeisingB}
+:::
+Adolf Zeising, *Neue Lehre von der Proportionen...*, 1854
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A teoria das proporções tal como a entendemos hoje é relativamente
+recente. Ela foi formulada por @zeising:1854neue em meados do século XIX
+([@fig:zeising]). Nesse momento, ela representava uma tendência
+ascendente de tentar codificar todos os aspectos da arte e da
+arquitetura, conforme o estereótipo negativo que acabou colando ao
+sistema Beaux-Arts. Mesmo assim, o conceito de proporção na pedagogia
+Beaux-Arts era equívoco. Julien @guadet:1901elements1, autor do mais
+famoso manual de arquitetura da virada do século, não ensinava regra
+alguma para as proporções, mas insistia que elas deviam ser "exatas".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------------------------------------------------
+
+![Le Corbusier, Villa Stein, Garches, 1926](media/garches-neg.png){#fig:garches}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+De todo o arcabouço metodológico do método acadêmico, a teoria das
+proporções era provavelmente o elo mais fraco, mas foi o que mais se
+conservou na transição para o modernismo. Nos desenhos e nos escritos de
+Le Corbusier ([@fig:garches]), os traçados reguladores proporcionais são
+frequentes. E, como mostrou Alina @payne:1994rudolf, a ideia da
+universalidade de um sistema platônico de proporções é ela mesma uma
+construção conceitual do modernismo. Seu principal expoente
+historiográfico é o livro *Arquitetura na idade do humanismo* de Rudolf
+Wittkower. Esse livro e seu autor pertencem à mesma geração de outras
+invenções pseudo-historiográficas modernistas, como o *Panorama da
+arquitetura ocidental* de Pevsner e o *Espaço, tempo, arquitetura* de
+Giedion.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------------------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![National Mall, Washington D.C.](media/mall.jpg){#fig:mall}
+:::
+::: {.column width=50%}
+![Esplanada dos Ministérios, Brasília](media/esplanada.jpg){#fig:esplanada}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por mais que o movimento Moderno tenha se inspirado no sistema
+Beaux-Arts na sua preocupação com as proporções, o modernismo deixou
+pelo caminho um complemento indispensável à teoria das proporções: o
+senso de escala. Lucio Costa escolheu dar à esplanada dos Ministérios as
+mesmas dimensões que as do Mall de Washington. Outros espaços modernos,
+porém, tendem a ser superdimensionados, especialmente considerando as
+diferenças de implantação e paisagismo entre a arquitetura acadêmica e a
+modernista.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Type, modèle, exception #
 
