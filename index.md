@@ -321,7 +321,19 @@ modernista.
 
 # Type, modèle, exception #
 
-Edifício isolado: de Chaux à Superquadra
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Talvez o precedente clássico mais desconcertante que se tem no movimento
+Moderno seja a implantação isolada das edificações.
+@tzonis:1986classical argumentam que o fim último, a perfeição máxima da
+arquitetura clássica seja transformar cada edifício num *temenos*, um
+monumento perfeito e isolado em si mesmo. Como quer que seja, essa nunca
+foi a realidade das cidades tradicionais, por mais arquiteturas
+monumentais que elas tivessem.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------------------------------------------------
+
+![Claude Nicolas Ledoux, saline de Chaux, Arc-et-Senans, 1775--79](media/chaux.jpg)
 
 # Conclusion #
 
